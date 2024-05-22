@@ -5,6 +5,12 @@ var apps = [
       'image': 'assets/images/add.png'
     },
     {
+      "id": "zombsroyale"
+      "title": "Zombs Royale"  
+      "url": "https://zombsroyale.io/"
+      'image': "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCkPgn3tEWT2BJnlG3QweWHwvuEqf_E76joCOGtu2Sg&s"        
+    },
+    {
       "id": "google",
       "title": "Google",
       "url": "https://www.google.com/?safe=active&ssui=on",
