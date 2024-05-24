@@ -1,7 +1,7 @@
 name: Bug report
 description: Report a bug you see on the website
 assignees:
-  - proudparrot2
+  - bas1csyntax
 body:
   - type: input
     id: issue
