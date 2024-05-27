@@ -13,4 +13,4 @@ Most issues can be answered by [opening an issue](https://github.com/bas1csyntax
 
 ## Contributors
 
-bas1csyntax (FOUNDER & OWNER) & Ephixity ( CO-FOUNDER, CO-OWNER AND EMOTIONAL SUPPORT)
+bas1csyntax (FOUNDER & OWNER) & Ephixity (FOUNDER, OWNER AND EMOTIONAL SUPPORT)
